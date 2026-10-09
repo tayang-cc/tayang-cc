@@ -25,21 +25,29 @@
 
 <h2 align="center">Interests</h2>
 
+<img align="right" src="assets/rei-interests.gif" width="200" alt="Rei Ayanami in a quiet moment" />
+
 <p align="center">
   <code>LLM agents</code> · <code>Post-training</code> · <code>Agent harnesses</code> · <code>Agentic RL</code>
 </p>
 
+<br clear="both" />
+
 <h2 align="center">Currently learning</h2>
+
+<img align="right" src="assets/rei-learning.gif" width="200" alt="Rei Ayanami blinking" />
 
 - **LLM agents** — Reasoning, tool use, and agent orchestration.
 - **Post-training** — Methods for improving model behavior after pretraining.
 - **Agent harnesses** — Infrastructure for running and evaluating agents.
 - **Agentic RL** — Reinforcement learning for agent behavior.
 
+<br clear="both" />
+
 ---
 
 <h3 align="center">Thanks for visiting</h3>
 
 <p align="center">
-  <sub>GIF: <a href="https://gifs.alphacoders.com/gifs/view/112778">Rei Ayanami · Neon Genesis Evangelion</a></sub>
+  <sub>GIFs: Rei Ayanami · Neon Genesis Evangelion · <a href="https://gifs.alphacoders.com/gifs/view/112778">About</a> · <a href="https://gifs.alphacoders.com/gifs/view/112818">Interests</a> · <a href="https://gifs.alphacoders.com/gifs/view/112333">Learning</a></sub>
 </p>
