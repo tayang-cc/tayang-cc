@@ -23,6 +23,21 @@
 
 ---
 
+<h2 align="center">Interests</h2>
+
+<p align="center">
+  <code>LLM agents</code> · <code>Post-training</code> · <code>Agent harnesses</code> · <code>Agentic RL</code>
+</p>
+
+<h2 align="center">Currently learning</h2>
+
+- **LLM agents** — Reasoning, tool use, and agent orchestration.
+- **Post-training** — Methods for improving model behavior after pretraining.
+- **Agent harnesses** — Infrastructure for running and evaluating agents.
+- **Agentic RL** — Reinforcement learning for agent behavior.
+
+---
+
 <h3 align="center">Thanks for visiting</h3>
 
 <p align="center">
